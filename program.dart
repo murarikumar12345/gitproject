@@ -1,3 +1,3 @@
 void main(){
-  print("Hello worlrd of the program");
+  print("Hello world of the program");
 }
